@@ -1,16 +1,15 @@
-## Hi there 👋
+ ### 👋 Hi, I’m Soukayna Hamdani
 
-<!--
-**SoukaynaHamdani/SoukaynaHamdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI & Cybersecurity Student | 🤖 Robotics Enthusiast | 🌍 Changemaker  
+- 🔭 Working on AI-driven solutions in sustainability and robotics  
+- 🌱 Currently exploring cloud deployment & machine learning pipelines  
+- 💡 Passionate about empowering youth with tech education
 
-Here are some ideas to get you started:
+📈 **GitHub Stats:**  
+![Soukayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoukaynaHam&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
