@@ -83,6 +83,5 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> • 
-  <a href="https://github.com/SoukaynaHamdani">🌐 GitHub</a> • 
-  <a href="https://instagram.com/yourhandle">📸 Instagram</a>
+  
 </p>
