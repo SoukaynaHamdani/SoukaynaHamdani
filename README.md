@@ -1,9 +1,9 @@
 <!-- 🎀 Minimalist & Aesthetic GitHub Profile README for Soukayna Hamdani -->
 
-<h1 align="center">🌸 Hi, I'm <strong>Soukayna Hamdani</strong> 👋</h1>
+<h1 align="center">  Hi, I'm <strong>Soukayna Hamdani</strong> 👋</h1>
 
 <p align="center">
-  💻 AI & Cybersecurity Student | 🤖 Robotics Enthusiast | 🌍 Future Innovator
+  💻 AI & Cybersecurity Student | 🤖 Robotics Enthusiast |  
 </p>
 
 ---
@@ -12,7 +12,6 @@
 
 - 🎓 Computer Science student passionate about **Artificial Intelligence**, **Cybersecurity**, and **Robotics**.  
 - 💡 I love building impactful solutions that merge **AI** with **real-world applications**.  
-- 🤝 Currently working on projects that empower people and promote sustainability.
 
 ---
 
