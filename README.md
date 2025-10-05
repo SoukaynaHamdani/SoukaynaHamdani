@@ -1,4 +1,4 @@
- ### 👋 Hi, I’m Soukayna Hamdani
+ 
 # 👋 Hi, I'm Soukayna Hamdani!
 
 ---
@@ -38,7 +38,7 @@ Below are some of my key projects that demonstrate my skills and interests. Each
 
 To dynamically display your GitHub statistics, you can integrate badges from services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats ). Here’s an example of how to include your stats and most used languages:
 
-```markdown
+ 
 ![SoukaynaHamdani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoukaynaHamdani&show_icons=true&theme=radical )
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoukaynaHamdani&layout=compact&theme=radical )
 
