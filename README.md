@@ -54,7 +54,7 @@
 *   Natural Language Processing (NLP)
 *   Retrieval-Augmented Generation (RAG)
 *   Large Language Models (LLMs)
-*   *   Reinforcement Learning
+*   Reinforcement Learning
 
 
 ---
@@ -70,10 +70,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-To dynamically display your GitHub statistics, you can integrate badges from services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats ). Here’s an example of how to include your stats and most used languages:
-
+### 📊 GitHub Stats 
  
 ![SoukaynaHamdani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoukaynaHamdani&show_icons=true&theme=radical )
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoukaynaHamdani&layout=compact&theme=radical )
