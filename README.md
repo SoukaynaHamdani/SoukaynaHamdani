@@ -3,7 +3,7 @@
 <h1 align="center">  Hi, I'm <strong>Soukayna Hamdani</strong> 👋</h1>
 
 <p align="center">
-  💻 AI & Cybersecurity Student | 🤖 Robotics Enthusiast 
+ 💻 AI & Cybersecurity Student | 🤖 Robotics Enthusiast 
 </p>
 
 ---
