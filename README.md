@@ -79,7 +79,7 @@
 
 ---
 
-<h3 align="center">  “We don’t just imagine the future — we engineer it. Through code, we shape the intelligence that shapes our world. ”  </h3>
+<h3 align="center">  “We don’t just imagine the future, we engineer it. Through code, we shape the intelligence that shapes our world. ”  </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> • 
