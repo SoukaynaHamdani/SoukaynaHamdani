@@ -3,14 +3,14 @@
 <h1 align="center">  Hi, I'm <strong>Soukayna Hamdani</strong> 👋</h1>
 
 <p align="center">
-  💻 AI & Cybersecurity Student | 🤖 Robotics Enthusiast |  
+  💻 AI & Cybersecurity Student | 🤖 Robotics Enthusiast 
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Computer Science student passionate about *Artificial Intelligence, **Cybersecurity, and **Robotics*.  
+- 🎓 Computer Science student passionate about  Artificial Intelligence,  Cybersecurity, and Robotics.  
 - 💡 I love building impactful solutions that merge *AI* with *real-world applications*.  
 
 ---
